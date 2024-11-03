@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Apple iPhone 16 Pro Max",
+        "shortDescription": "First iphone built for Apple Intelligence. Personal, Private, Powerfull.",
+        "longDescription": "The Apple iPhone 16 Pro Max is the pinnacle of smartphone technology, featuring a stunning 6.9-inch Super Retina XDR display that brings your content to life with vibrant colors and incredible detail. Powered by the A18 pro Bionic chip, it delivers lightning-fast performance and efficiency, making multitasking a breeze. Capture stunning photos and videos with the advanced triple-camera system, featuring ProRAW and ProRes capabilities for professional-quality imaging. With up to 1TB of storage, 5G connectivity, and an all-day battery life, the iPhone 16 Pro Max is designed for those who demand the best in mobile technology.",
+        "price": 1199.99,
+        "image": "https://images-dileep.s3.eu-north-1.amazonaws.com/images/Apple+iPhone+16+Pro+Max.jpg"
+    },
+    {
+        "name": "Apple iPad Air",
+        "shortDescription": "Touch, draw, and type on one magical device.",
+        "longDescription": "The Apple iPad Air is a versatile tablet that combines power and portability. Featuring a 11-inch Liquid Retina display, it offers a breathtaking visual experience with True Tone and P3 wide color support. Powered by the M1 chip, the iPad Air delivers desktop-class performance for demanding tasks, whether you’re editing videos, playing games, or using creative apps. With Apple Pencil and Magic Keyboard compatibility, it transforms into a powerful creative tool for artists and professionals alike. Lightweight and sleek, the iPad Air is perfect for on-the-go productivity and entertainment",
+        "price": 599.99,
+        "image": "https://images-dileep.s3.eu-north-1.amazonaws.com/images/Apple+ipad.jpg"
+    },
+    {
+        "name": "Apple Airpods Pro(2nd generation)",
+        "shortDescription": "The world's first all-in-one hearing health experience.",
+        "longDescription": "The Apple AirPods Pro (2nd Generation) offers an immersive audio experience with active noise cancellation and transparency mode, allowing you to customize your listening environment. Featuring improved sound quality with enhanced bass and clarity, they deliver rich audio that brings your music and podcasts to life. The ergonomic design ensures a comfortable fit, and the sweat and water resistance make them perfect for workouts. With up to 6 hours of listening time on a single charge and the convenience of MagSafe charging, the AirPods Pro are the ultimate wireless earbuds for music lovers and commuters alike.",
+        "price": 249.99,
+        "image": "https://images-dileep.s3.eu-north-1.amazonaws.com/images/Apple+airpods.jpg"
+    },
+    {
+        "name": "Apple MacBook Air",
+        "shortDescription": "If you can dream it. Mac can do it.",
+        "longDescription": "The Apple MacBook Air is the perfect blend of performance and portability. With its sleek and lightweight design, it's easy to take anywhere, while the stunning Retina display provides vivid colors and sharp text for an exceptional viewing experience. Powered by the M2 chip, the MacBook Air delivers exceptional performance and efficiency for everyday tasks, from browsing and streaming to creative work. With up to 18 hours of battery life, you can work and play all day without interruption. Featuring a fanless design for silent operation and advanced security with Touch ID, the MacBook Air is the ideal laptop for students and professionals on the go.",
+        "price": 1099.99,
+        "image": "https://images-dileep.s3.eu-north-1.amazonaws.com/images/Apple+mac.jpg"
+    }
+]
